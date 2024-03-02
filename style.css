@@ -1,0 +1,50 @@
+
+*{
+    font-family: Josefin Sans;
+
+}
+
+body{
+    background-image: linear-gradient(to right, #e63010, #4ed6ffc0);
+}
+.header{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.lyrics{
+    font-size: 20px;
+
+}
+.audio{
+   
+    position:sticky;
+    top:0px;
+}
+.fa-brands.fa-youtube{
+    color:hsl(0, 0%, 0%)
+}
+.fa-brands.fa-facebook{
+    color:hsl(0, 0%, 0%);
+}
+.fa-brands.fa-twitter{
+    color:hsl(0, 0%, 0%);
+}
+.fa-solid.fa-print{
+    color:hsl(0, 0%, 0%);
+}
+.fa-brands.fa-youtube:hover{
+    color:hsl(0, 1%, 15%)
+}
+.fa-brands.fa-facebook:hover{
+    color:hsl(0, 1%, 15%)
+}
+.fa-brands.fa-twitter:hover{
+    color:hsl(0, 1%, 15%)
+}
+.fa-solid.fa-print:hover{
+    color:hsl(0, 1%, 15%)
+}
+.icons a{
+    text-decoration:none;
+}
